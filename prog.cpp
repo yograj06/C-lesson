@@ -1,7 +1,7 @@
-#include <isoterm>
-
+#include <iostream>
+using namespace std; 
 int main () 
 {
-    std::count << "Hello world" << std::endl;
+    cout << "Hello world \n" << std::endl;
     return 0;
 }
